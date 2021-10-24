@@ -34,7 +34,7 @@ h2 {
     color: blueviolet;
 }
 
-#index {
+#index-p {
     text-align: center;
 }
 
@@ -43,8 +43,24 @@ h3 {
     color: #b49055;
 }
 
-#indexxx {
+#index-ul {
     display: flex;
     justify-content: center;
     margin-top: -15px;
+}
+
+.hakkimizda-h3 {
+    text-align: left;
+}
+
+ol {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    width: 400px;
 }
